@@ -1,0 +1,20 @@
+.env
+.env.test
+.idea/
+.vscode/
+node_modules/
+build/
+dist/
+tmp/
+temp/
+coverage/
+data/
+*.rest
+*/yarn.lock
+yarn.lock
+.DS_Store
+# Logs
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*  
